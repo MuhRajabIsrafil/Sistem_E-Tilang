@@ -1,0 +1,6 @@
+streamlit~=1.30.0
+opencv-python~=4.9.0.80
+pandas~=2.1.4
+ultralytics~=8.1.2
+stqdm~=0.0.5
+numpy~=1.26.3
